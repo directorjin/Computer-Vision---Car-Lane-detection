@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(52): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(52): warning C4244: '초기화 중': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(55): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(79): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(99): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(101): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(167): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(168): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(175): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(176): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(229): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(230): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(231): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(232): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(273): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'cv::Point2f'입니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(274): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'cv::Point2f'입니다.
+c:\users\direc\desktop\새 폴더 (2)\main.cpp(275): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'cv::Point2f'입니다.
+  opencvcv.vcxproj -> C:\Users\direc\Desktop\새 폴더 (2)\opencvcv\x64\Debug\opencvcv.exe
