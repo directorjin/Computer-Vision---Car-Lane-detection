@@ -32,5 +32,5 @@ Test Results2
 
 
 <hr/>  
-VS2017  
-Programs written with C
+VS2017, OpenCV    
+
