@@ -13,6 +13,8 @@ And remove the wrong lines in a heuristic way.
 ---------------------------------------------------------------
   
 <hr/>    
+
+
 Project Solution design
 -------------
 1. Canny Detector to make it easier to find lines in the Hough transform
