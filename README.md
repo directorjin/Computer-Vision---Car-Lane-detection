@@ -17,11 +17,13 @@ And remove the wrong lines in a heuristic way.
 
 Project Solution design
 -------------
-1. Canny Detector to make it easier to find lines in the Hough transform
-Implement
-  <img width="700" src="https://user-images.githubusercontent.com/44941601/72230266-9159d800-35f7-11ea-9f3e-2ed5a73312b7.png">  
+
+1. Canny Detector to make it easier to find lines in the Hough transform Implement
+  <img width="700" src="https://user-images.githubusercontent.com/44941601/72230266-9159d800-35f7-11ea-9f3e-2ed5a73312b7.png">
+  
 2. We then implement a Hough transform to detect the lines that we think are Car lanes.
 <img width="700" src="https://user-images.githubusercontent.com/44941601/72230368-307ecf80-35f8-11ea-86a8-7abf0df5304a.png">  
+
 3. Then heuristically removes non-car-lane lines.
   
   
